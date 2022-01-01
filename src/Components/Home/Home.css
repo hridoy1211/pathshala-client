@@ -1,0 +1,6 @@
+.banner-img {
+  background: url("../../img/slide-3-01.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

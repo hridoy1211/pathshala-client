@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "JS (Zero 2 Hero)",
+      "desc": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. React-Native is a framework, where ReactJS is a javascript library you can use for your website. React-native provides default core components (images, text), where React provides a bunch of components and make them work together. React Native is for mobile applications while React is for websites(front-end). JavaScript isn't exactly hard to learn, but if it's your first programming language adjusting to the mindset required for programming can take a lot of time. JavaScript is actually one of the easier programming languages to start with. In fact, there are several resources available to help you learn it with ease. JavaScript forms the foundation of almost everything you see on the Internet. So, with web development on the rise in 2021-22, it's a good one to learn. JavaScript can used in both the front-end and back-end to add dynamic functionalities to websites. While JavaScript is a step up from the most fundamental web development skills (languages like HTML and CSS, which can be learned in under a month), you can still expect to learn JS basics in a matter of months, not years—and that's whether you learn through online classes or teach yourself through book study. If you're learning on your own, it can take six to nine months to become proficient in JavaScript. Some of that time is spent learning how to think like a programmer — helpful for when you move on to learning other programming languages.",
+      "price": "4000",
+      "timing":"65hr",
+      "end":"3 motnth (approx)",
+      "videos":"65",
+      "coverImg": "https://i.ibb.co/cJzsdwL/cover-js.png",
+      "img":"https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 2,
+        "name": "React Native Course",
+        "desc": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android, Android TV, iOS, macOS, tvOS, Web, Windows and UWP by enabling developers to use the React framework along with native platform capabilities. Let it be clear that this development tool is not dead; even in 2021. However, there may be other rivals, such as Flutter and Kotlin, who are attempting to take their position, however, React Native is capable of generating excellent applications, and Facebook is working hard to ensure that it does not become obsolete. React. js/React is an open-source frontend framework that is based on JavaScript, developed by Facebook, and best known for its virtual DOM feature. With React, we recommend Express. js/Express as a backend service. React-Native is a framework, where ReactJS is a javascript library you can use for your website. React-native provides default core components (images, text), where React provides a bunch of components and make them work together. React Native is for mobile applications while React is for websites(front-end). React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.",
+        "price": "4000",
+        "timing":"45hr",
+        "end":"3 motnth (approx)",
+        "videos":"76",
+        "coverImg": "https://i.ibb.co/CwZQkbT/cover-react.png",
+        "img":""
+    },
+    {
+      "id": 3,
+      "name": "Microsoft Excel",
+      "desc": "Are you new to the world of Microsoft Excel? Do you find it all very difficult and scary? Don't worry, we were all in this situation. Excel skills can have a profound effect on your career. Excel is undoubtedly an important skill in every field, from academic to corporate sector. And so the lack of proper knowledge of Excel can stand in the way of your success in both these places. Knowing how to use Microsoft Excel properly can open the door to new possibilities, from an information clerk to an accountant and even at the administration level. Even if you don't know anything, you can now learn all the details at home. This course, guided by a professional and skilled teacher, promises a reliable, well-planned journey to learn Microsoft Excel, including fifty videos, quizzes and workbooks. This will greatly increase your skills in data management and data storage. Abtahi Iptisam, an Excel Instructor with more than 4 years of experience, comes with a Bangla tutorial of Microsoft Excel to teach you everything from basic to advanced of this important software in a very simple way. In this course you will learn all the tips and tricks, custom profiles and advanced formulas. So enroll now and learn the ins and outs of Excel in just 16 hours.",
+      "price": "1500",
+      "timing":"16hr",
+      "end":"1 motnth",
+      "videos":"46",
+      "coverImg": "https://i.ibb.co/jgTH6ZN/excel.png",
+      "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Web Desingning",
+        "desc": "How do you think the websites we use every day are designed? Or do you just want to enrich your web designing portfolio by building your own website with a little bit of knowledge and skills? Then this course is for you. With the increasing digital age, the demand for web designers is also increasing. In today's context, the need for a website is undeniable if you want to promote your small business or bring your brand to a global audience. And so to help you fulfill your dream of becoming a web designer, we have come up with a 'web designing' course through which you can learn everything from the basics of web designing. Even if you are a beginner, in this course you will learn the basics of becoming a good web designer, starting with HTML & CSS language, domain hosting, ways to make the website responsive and interactive. In this course, with the help of our skilled instructors and all the wonderful tutorials, you will be able to build yourself a successful web designer at home, which will open the door to many possibilities for you. Complete concepts from the basics of HTML and CSS, two important languages of web design. Ways to create different website layouts. Everything from website planning to design coding for a good user experience. Ways to make the website responsive. The process of web hosting. Everything visitors need to know in order to experience the interactive website. Know the best practices in the industry for creating your own website.",
+        "price": "6500",
+        "timing":"150hr",
+        "end":"6 motnth",
+        "videos":"100",
+        "coverImg": "https://i.ibb.co/TM7ZQqr/cover-wd.png",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 5,
+        "name": "Machine Learning",
+        "desc": "Machine learning is a vital aspect of artificial intelligence (AI). The key for the future of AI technology, machine learning allows an AI system to learn from its experiences without it needing explicit programming. When applied in a business setting, this type of data-driven decision making becomes more accurate and accessible. Machine Learning: Predictive Analysis for Business Decisions is an IEEE five-course program designed for executives and technical professionals to develop greater understanding of how machine learning can be used in the business world. Machine Learning in the Age of Enterprise Big Data. Machine Learning in a Data-Driven Business Environment. Sound Business Practices for Data Mining and Predictive Analysis. Machine Learning Algorithms, Models, and Systems Integration. Machine Learning Platforms, Technology, and Tools. Contact an IEEE Content Specialist today to learn more about getting access to course programs for your organization. IEEE eLearning courses are available in a wide range of topics, with many featured course series to choose from in various subtopics. Learn more about the full IEEE eLearning Library collection. Learn how an industrial 6-axes anthropomorphic robot works. We will start by building its kinematic model step-by-step, then plan geometrical paths and optimize motion trajectories. We will learn how to correctly size the electric motors and understand the fine-tuning procedures for the servo drives. We will describe calibration procedures for the arm, tool and cell, and finally generate a realistic digital twin for your simulations! New bonus lecture at the end: kinematic model of UR robot. ",
+        "price": "7500",
+        "timing":"150hr",
+        "end":"6 motnth",
+        "videos":"122",
+        "coverImg": "https://i.ibb.co/Wc8tJ5W/cover-ml.png",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 6,
+        "name": "Artificial Intelligence (Basic Explore)",
+        "desc": "Artificial intelligence is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans.AI is the ability of a computer or a robot controlled by a computer to do tasks that are usually done by humans because they require human intelligence and discernment. Artificial intelligence is a theory and development of computer systems that can perform tasks that normally require human intelligence. Speech recognition, decision-making, visual perception, for example, are features of human intelligence that artificial intelligence may possess. From Simple English Wikipedia, the free encyclopedia. Artificial intelligence (AI) is the ability of a computer program or a machine to think and learn. It is also a field of study which tries to make computers 'smart'. They work on their own without being encoded with commands. In summary, the goal of AI is to provide software that can reason on input and explain on output. AI will provide human-like interactions with software and offer decision support for specific tasks, but it's not a replacement for humans and won't be anytime soon. ",
+        "price": "7000",
+        "timing":"86hr",
+        "end":"5 motnth",
+        "videos":"100",
+        "coverImg": "https://i.ibb.co/b5WyMPy/cover-ai.png",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 7,
+        "name": "Wedding Photography",
+        "desc": "What if every week the bride and groom get home biryani without any presents for the bride and groom and also get paid to go there! Sounds a lot like fantasy, doesn't it? The business of wedding photography not only brings good income and respect but also brings incredible opportunities. The advantage of being a good wedding photographer is not only free meals at the wedding home but also an opportunity to go abroad for a grand project and capture the beauty through lenses. If the business of wedding photography can be run well, it can be a lot of fun and adventures. In the beginning though some challenges may come. That is why we have given the responsibility to Preet Reza, the founder of Wedding Diary Bangladesh and the founder of Wedding Photojournalism in Bangladesh, to reveal the secrets of all his wedding photography and you can build a successful career as a wedding photographer in Guidance. In this course you will learn how to enjoy a festival like Wedding Photography starting from the basics of Wedding Photography. Your instructor is an expert in this field and he or she will give you ideas on how to get good clients as well as the business of wedding photography and how to take advantage of the many great opportunities at home and abroad. He will give you details about the camera and equipment and will give you an accurate idea of how to sell your work well. With just three hours of his sense of humor and active participation, this course will become easier for you.",
+        "price": "4000",
+        "timing":"36hr",
+        "end":"2 motnth",
+        "videos":"39",
+        "coverImg": "https://i.ibb.co/zn81F3j/photography.jpg",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 8,
+        "name": "Graphics Design",
+        "desc": "Whenever we start thinking about graphics design, the first two softwares that come to mind are Photoshop and Illustrator. And to be honest, these are quite difficult software! What if we told you now that you could do all the simple graphics design work you need in an instant with a much simpler software, Microsoft PowerPoint? If this has created a little interest in you, then this course is for you! PowerPoint will also show you an easy way to design flyers for your business, design new logos for your start-ups, or design icons for your products. For those who want to learn about graphic design or who are afraid to design their own essentials, Ten Minute School has come up with the Graphic Designing course. In this course you will learn all the important techniques, design features and materials, practical application of PowerPoint layout, infographics and much more from the very basics. With 15 video lectures, 15 quizzes and over 20 premium PowerPoint templates to practice at home, this course is a complete guideline for learning graphic design. The instructor of the course Anisa Saiyara Tanjur is a wonderful and experienced graphics designing trainer who will teach you everything you need to become proficient in graphics design.",
+        "price": "6000",
+        "timing":"80hr",
+        "end":"4 motnth",
+        "videos":"93",
+        "coverImg": "https://i.ibb.co/c8q3ZNd/cover-gd.jpg",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    },
+    {
+        "id": 9,
+        "name": "Facebook Marketing",
+        "desc": "What if you could make money sitting on social media all day? Yes, we are talking about Facebook here. Facebook is a very powerful medium for digital marketing in today's world. However, getting started on Facebook without anyone's help can be a bit scary. Sometimes the right product or content is not enough to solidify your position online. For this you need to know the social media marketing strategy, strategies to promote your brand online and different aspects of digital marketing so that you can differentiate your brand from others. And so, Ten Minute School has come up with a “Facebook Marketing” course to help you in this journey of building your online brand. The course was designed by industry experts like Ayman Sadiq, Sadman Sadiq, Salman Muktadir and Antik Mahmood. This course is a complete guideline for learning digital marketing through Facebook where you can learn Facebook marketing through various examples and tutorials. We've tried to make your learning experience more engaging and fun so that you can create your own content on Facebook and start earning money through Facebook in no time. Enroll Today and Become an Expert in Facebook Marketing in 30 hours! All the examples of this course are given in the context of Bangladesh so that you can learn Facebook marketing in a way that is relevant to you. All of the instructors in this course are Facebook influencers who have already solidified their position online using their Facebook marketing experience.",
+        "price": "3000",
+        "timing":"30hr",
+        "end":"1 motnth",
+        "videos":"60",
+        "coverImg": "https://i.ibb.co/Y0mR74r/fb-logo.jpg",
+        "img": "https://i.ibb.co/gdcZDt5/honda-up-3.webp"
+    }
+  ]
