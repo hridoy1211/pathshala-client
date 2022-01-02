@@ -1,20 +1,22 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import './Services.css'
 
-const Services = () => {
+
+const SliceService = () => {
     const[services, setServices] = useState([])
     useEffect(() => {
         fetch('./services.json')
         .then(res => res.json())
         .then(data => setServices(data))
     },[])
+
+    const sliceServices = services.slice(0,4)
     return (
-        <div className='container mt-5'>
-            <h1 className='text-center my-4'>Our Services</h1>
+        <div className='container my-5'>
+            <h1 className='text-center my-5 text-white'>Our Services</h1>
             <div class="row row-cols-1 row-cols-md-4 g-4">
                 {
-                    services.map(service => <div key={service.id} className="col">
+                    sliceServices.map(service => <div key={service.id} className="col">
                     <div className="card h-100">
                         <img src={service.coverImg}className="card-img-top" alt="..."/>
                         <div className="card-body">
@@ -37,5 +39,4 @@ const Services = () => {
 };
 
 
-
-export default Services;
+export default SliceService;

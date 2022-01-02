@@ -8,6 +8,7 @@ import Home from './Components/Home/Home';
 import Blogs from './Components/Blogs/Blogs';
 import Header from './Components/Header/Header';
 import Services from './Components/Services/Services';
+import SingleService from './Components/SingleService/SingleService';
 
 function App() {
   return (
@@ -26,6 +27,10 @@ function App() {
 
           <Route exact path='/blogs'>
             <Blogs></Blogs>
+          </Route>
+
+          <Route exact path='/singleService/:serviceId'>
+            <SingleService></SingleService>
           </Route>
 
           <Route exact path='/services'>

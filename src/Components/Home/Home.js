@@ -10,6 +10,7 @@ import partner2 from '../../img/partner-logo/partner-logo-2.png'
 import partner3 from '../../img/partner-logo/partner-logo-3.png'
 import partner4 from '../../img/partner-logo/partner-logo-4.png'
 import partner5 from '../../img/partner-logo/partner-logo-5.png'
+import SliceService from '../SliceService/SliceService';
 
 const Home = () => {
     return (
@@ -61,6 +62,16 @@ const Home = () => {
                 </div>
             </div>
 
+            <div className='my-5'>
+                <div className='bgImg'>
+                    <div className='dark-overlay'>
+                        <div className='container'>
+                            <SliceService></SliceService>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div className='my-5 container'>
                 <div className="row ">
                     <div className="col-md-2 col-6">
@@ -80,6 +91,78 @@ const Home = () => {
                     </div>
                     <div className="col-md-2 col-6">
                         <img className='img-fluid' src={partner2} alt="" />
+                    </div>
+                </div>
+            </div>
+
+
+            <div className='container'>
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    <div class="col ">
+                        <div class="card-body border">
+                            <div>
+                                <i class="fas fa-video" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Video Class</h5>
+                                <p class="card-text">Video recordings are made of each class at the Pathshala Foundation. Even if you can't take the class for some reason, there is no chance of missing the class.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <div class="card-body border">
+                            <div>
+                                <i class="far fa-play-circle" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Online Course</h5>
+                                <p class="card-text">For those who live outside Dhaka and if it is not possible to come to our office to take classes, there is a facility to take online courses. You get the chance to take classes from anywhere.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <div class="card-body border">
+                            <div>
+                                <i class="fas fa-user-clock" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Support System</h5>
+                                <p class="card-text">It is not our responsibility to do just that. At the end of the course everything is shown and helped on how to get the job done and how to communicate with the client.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <div class="card-body border">
+                            <div>
+                                <i class="fas fa-dollar-sign" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Installation facility</h5>
+                                <p class="card-text">We have the benefit of installment in offline course. You can pay the course fee in installments if you want. Follow the hotline to find out about installments.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <div class="card-body border">
+                            <div>
+                                <i class="fab fa-youtube" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Youtube Channel</h5>
+                                <p class="card-text">Our YouTube channel has 230+ video tutorials on web design and WordPress. You can watch the videos to know about the quality of our course.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                    <div class="card-body border">
+                            <div>
+                                <i class="fas fa-laptop-code" style={{backgroundColor: '#EEEEEE', padding:'20px', fontSize:'45px', color:'#444444', margin:'10px'}}></i>
+                            </div>
+                            <div style={{margin:'10px'}}>
+                                <h5 class="card-title">Web Hosting</h5>
+                                <p class="card-text">Domains, hosting, themes, plugins and tools required for all Pathshala Foundation students are provided by Pathshala Foundation.</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

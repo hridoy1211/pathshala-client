@@ -4,3 +4,16 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.bgImg {
+  background-image: url("../../img/virtual-assistant-websites.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+  background-size: 100%;
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  min-height: 100vh;
+}
