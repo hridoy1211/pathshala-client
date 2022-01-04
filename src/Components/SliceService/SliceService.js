@@ -13,7 +13,7 @@ const SliceService = () => {
     const sliceServices = services.slice(0,4)
     return (
         <div className='container my-5'>
-            <h1 className='text-center my-5 text-white'>Our Services</h1>
+            <h1 className='text-center my-5 text-white'>Popular <span style={{color:'#FFCA51'}} >Services</span> </h1>
             <div class="row row-cols-1 row-cols-md-4 g-4">
                 {
                     sliceServices.map(service => <div key={service.id} className="col">
